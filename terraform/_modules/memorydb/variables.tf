@@ -1,0 +1,9 @@
+variable "name" {}
+variable "node_type" {}
+variable "num_shards" {}
+variable "snapshot_retention_limit" {}
+variable "port" {}
+variable "subnet_group_name" {}
+variable "subnet_ids" {}
+variable "vpc_id" {}
+variable "vpc_cidr_block" {}

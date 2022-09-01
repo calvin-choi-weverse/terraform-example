@@ -1,0 +1,9 @@
+variable "cluster_id" {}
+variable "port" {}
+variable "node_type" {}
+variable "subnet_ids" {}
+variable "subnet_group_name" {}
+variable "vpc_id" {}
+variable "vpc_cidr_block" {}
+variable "num_node_groups" {}
+variable "replicas_per_node_group" {}
